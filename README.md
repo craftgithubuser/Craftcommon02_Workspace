@@ -1,2 +1,3 @@
 # Craftcommon02_Workspace
-some desc
+
+this is craft common 02 weekend batch  practice repository.
