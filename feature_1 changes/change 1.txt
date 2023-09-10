@@ -1,0 +1,20 @@
+Step by step commands for GIT branching:
+
+1, To create a branch:   
+
+   --> git branch branchName = git branch feature_01
+   --> git checkout -b branchName = git checkout -b feature_02
+
+2, To list of out your branch:
+   
+  --> git branch
+
+3,  To merge branchs:
+
+    --> git merge branchName   = git merge feature_01
+    --> git rebase branchName
+
+4, To switch between branchs:
+   
+   --> git checkout branchName = git checkout main
+
